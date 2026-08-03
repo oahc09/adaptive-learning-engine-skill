@@ -1,0 +1,7 @@
+interface:
+  display_name: "自适应学习引擎"
+  short_description: "按目标与基础组合学习路径、苏格拉底互动和可续学进度"
+  default_prompt: "使用 $adaptive-learning-engine-skill 根据我的目标和当前水平开始学习，并选择合适的主路径与交互方式。"
+
+policy:
+  allow_implicit_invocation: false
